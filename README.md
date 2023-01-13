@@ -1,4 +1,4 @@
-# testing-shit
+# Todo list
 
 ## Project setup
 ```
