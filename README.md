@@ -1,4 +1,6 @@
-# Todo list
+# Todo-list
+
+Todo-list is an web app that you can create account and add your daily tasks to it and make sure you do all of your tasks :)
 
 ## Project setup
 ```
