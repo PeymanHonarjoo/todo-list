@@ -2,8 +2,8 @@
   <div
     class="d-flex justify-center flex-column mt-10"
     :class="{
-      'grey--text': !$vuetify.darkmode,
-      'white--text': $vuetify.darkmode,
+      'grey--text': !$vuetify.theme.dark,
+      'white--text': $vuetify.theme.dark,
     }"
   >
     <h1 class="text-center">404</h1>
